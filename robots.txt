@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexeebaebe.sammattmidtermprojectrealrealcse20221jaybrockmanep4ce115f29c7.com/sitemap.xml
